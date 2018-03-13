@@ -1,6 +1,6 @@
 //= require select2-full
 //= require jquery.xdan.datetimepicker.full
-//= require palette-color-picker
+//= require /vendor/assets/jquery_palette_color_picker/palette-color-picker
 //
 //= require ./config
 //= require ./inputs/select2
