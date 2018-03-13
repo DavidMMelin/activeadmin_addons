@@ -3,6 +3,10 @@
   "version": "1.4.0",
   "description": "activeadmin_addons node package for assets",
   "main": "index.js",
+  "dependencies": {
+    "select2": "~4.0",
+    "jquery-datetimepicker": "~2.5.1"
+  },
   "directories": {
     "doc": "docs",
     "lib": "lib"
