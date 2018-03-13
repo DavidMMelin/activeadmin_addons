@@ -1,0 +1,28 @@
+{
+  "name": "activeadmin_addons",
+  "version": "1.4.0",
+  "description": "activeadmin_addons node package for assets",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platanus/activeadmin_addons.git"
+  },
+  "keywords": [
+    "activeadmin_addons",
+    "rails",
+    "assets"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platanus/activeadmin_addons/issues"
+  },
+  "homepage": "https://github.com/platanus/activeadmin_addons#readme"
+}
