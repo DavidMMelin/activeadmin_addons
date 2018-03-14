@@ -1,5 +1,5 @@
-import '~select2/dist/js/select2'
-import '~jquery-datetimepicker/build/jquery.datetimepicker'
+import 'select2/dist/js/select2.full'
+import 'jquery-datetimepicker/build/jquery.datetimepicker.full'
 import '../../../../vendor/assets/jquery_palette_color_picker/palette-color-picker'
 
 import './config'
